@@ -1,0 +1,9 @@
+[package]
+name = "wt"
+version = "0.1.0"
+authors = ["Brian McCallister <brianm@skife.org>"]
+license = "Apache License 2.0"
+description = "Look up time in a given city"
+
+[dependencies]
+clap = "2.32"
