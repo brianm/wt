@@ -6,4 +6,4 @@ license = "Apache License 2.0"
 description = "Look up time in a given city"
 
 [dependencies]
-clap = "2.32"
+clap = "2"
